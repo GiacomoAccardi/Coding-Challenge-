@@ -1,0 +1,64 @@
+body{
+    background-image: url(IMG/background.jpg);
+    background-size: cover;
+    color: white;
+    padding-top: 30px;
+}
+
+.gray-box{
+    background-color: #0a0a0a9f;
+    border-radius: 30px;
+    margin: auto;
+    width: 900px;
+    padding: 80px;
+}
+
+header, nav, #logo{
+    text-align: center;
+}
+
+img{
+    width: 230px;
+    height: 105px;
+}
+
+header span{
+    color: #2ace09;
+    font-size: 26pt;
+    text-align: center;
+}
+
+nav{
+    background-color: #2ace09;
+    text-align: center;
+    padding: 9px;
+}
+
+section{
+    margin-top: 20px;
+}
+
+h1{
+    display: inline-block;
+    }
+
+#barra-Gino{
+    background-color: rgb(224, 168, 62);
+    width: 300px;
+    height: 28px;
+    border-radius: 8px;
+}
+
+#barra-Mike{
+    background-color:#2ace09;
+    width: 480px;
+    height: 28px;
+    border-radius: 8px;
+}
+
+#barra-Fede{
+    background-color: rgb(172, 66, 66);
+    width: 150px;
+    height: 28px;
+    border-radius: 8px;
+}
